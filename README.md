@@ -3,7 +3,7 @@
 项目由三个子功能文件夹构成，3d_lung_class用来将3d的CT扫描进行病理分类；dataTransform用来将3d转为2d；2d_class_lung用于2d的CT扫描切片病理分类。
 ## 数据集以及模型下载
 
- - 下载链接：
+ - 下载链接： https://pan.baidu.com/s/1JilB_684Z5qnLkN_ppMpiw 提取码: ytaf  
  - 将相应数据文件夹（数据集以及模型）放到与项目相同的文件目录下
  - 删除所有的cpp文件
 
